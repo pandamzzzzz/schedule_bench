@@ -1,0 +1,8 @@
+{
+    "db_name": "scheduling.db",
+    "queue_name": "kshcnormal",
+    "max_cores_per_node": 32,
+    "load_levels": [0.98],
+    "node_options": [1,2,3],
+    "num_jobs": 50
+}
